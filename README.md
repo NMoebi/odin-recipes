@@ -4,4 +4,4 @@ This is the first project of the Odin Project, a simple HTML recipe website, in 
 
 Aspects to be practiced here are for example base structures like the main body, headers and paragraphs inside it, hyperlinks, pictures, list and so on.
 
-The page will be improved later on with css.
+Currently adding css.
